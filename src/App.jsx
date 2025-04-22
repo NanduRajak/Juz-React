@@ -23,7 +23,7 @@ function App() {
   const convert = () => {
     setConnvertedAmount(amount * currencyInfo[to]);
   };
-
+}
   return (
     <div
       className="w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeate"
@@ -77,7 +77,5 @@ function App() {
         </div>
       </div>
     </div>
+  
   );
-}
-
-export default App;

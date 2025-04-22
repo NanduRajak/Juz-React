@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "06_currency_project",
+=======
+  "name": "02_basics_vite",
+>>>>>>> 8015696d58f8d035de868df8c731b163382c6786
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,6 +14,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@tailwindcss/vite": "^4.1.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
@@ -25,5 +30,20 @@
     "eslint-plugin-react-refresh": "^0.4.19",
     "globals": "^16.0.0",
     "vite": "^6.3.1"
+=======
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.21.0",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "@vitejs/plugin-react": "^4.3.4",
+    "eslint": "^9.21.0",
+    "eslint-plugin-react-hooks": "^5.1.0",
+    "eslint-plugin-react-refresh": "^0.4.19",
+    "globals": "^15.15.0",
+    "vite": "^6.2.0"
+>>>>>>> 8015696d58f8d035de868df8c731b163382c6786
   }
 }
